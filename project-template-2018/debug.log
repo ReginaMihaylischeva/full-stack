@@ -1,0 +1,38 @@
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] GET /profile/:id89","time":"2019-01-02T19:00:20.569Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] GET /profile/:id89 (200) took 145 ms","time":"2019-01-02T19:00:20.713Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] GET /dist/styles.css","time":"2019-01-02T19:00:20.835Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] GET /dist/bundle.js","time":"2019-01-02T19:00:20.840Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] GET /dist/styles.css (200) took 32 ms","time":"2019-01-02T19:00:20.867Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] GET /dist/bundle.js (200) took 583 ms","time":"2019-01-02T19:00:21.423Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] POST /me","time":"2019-01-02T19:00:22.043Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] POST /getPosts","time":"2019-01-02T19:00:22.114Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[REQ] POST /getFriends","time":"2019-01-02T19:00:22.229Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] POST /me (200) took 259 ms","time":"2019-01-02T19:00:22.302Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] POST /getPosts (200) took 527 ms","time":"2019-01-02T19:00:22.642Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":12604,"level":30,"msg":"[RES] POST /getFriends (200) took 436 ms","time":"2019-01-02T19:00:22.666Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] GET /profile/:id89","time":"2019-01-02T19:03:05.393Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] GET /profile/:id89 (200) took 147 ms","time":"2019-01-02T19:03:05.539Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] GET /dist/styles.css","time":"2019-01-02T19:03:05.597Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] GET /dist/bundle.js","time":"2019-01-02T19:03:05.607Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] GET /dist/styles.css (200) took 27 ms","time":"2019-01-02T19:03:05.624Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] GET /dist/bundle.js (200) took 560 ms","time":"2019-01-02T19:03:06.167Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] POST /me","time":"2019-01-02T19:03:06.966Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] POST /getPosts","time":"2019-01-02T19:03:07.081Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] POST /getFriends","time":"2019-01-02T19:03:07.128Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] POST /me (200) took 418 ms","time":"2019-01-02T19:03:07.384Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] POST /getPosts (200) took 560 ms","time":"2019-01-02T19:03:07.641Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] POST /getFriends (200) took 515 ms","time":"2019-01-02T19:03:07.643Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[REQ] GET /login","time":"2019-01-02T19:03:09.613Z","v":0}
+{"name":"debug","hostname":"DESKTOP-5M7JH14","pid":4476,"level":30,"msg":"[RES] GET /login (200) took 29 ms","time":"2019-01-02T19:03:09.643Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] GET /login","time":"2019-01-02T19:08:38.016Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] GET /login (200) took 130 ms","time":"2019-01-02T19:08:38.144Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] GET /dist/styles.css","time":"2019-01-02T19:08:38.192Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] GET /dist/bundle.js","time":"2019-01-02T19:08:38.196Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] GET /dist/styles.css (200) took 20 ms","time":"2019-01-02T19:08:38.212Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] GET /dist/bundle.js (200) took 564 ms","time":"2019-01-02T19:08:38.760Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] POST /me","time":"2019-01-02T19:08:41.060Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] POST /getPosts","time":"2019-01-02T19:08:41.161Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] POST /me (200) took 175 ms","time":"2019-01-02T19:08:41.235Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[REQ] POST /getFriends","time":"2019-01-02T19:08:41.270Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] POST /getPosts (200) took 396 ms","time":"2019-01-02T19:08:41.556Z","v":0}
+{"name":"error","hostname":"DESKTOP-5M7JH14","pid":13448,"level":30,"msg":"[RES] POST /getFriends (200) took 305 ms","time":"2019-01-02T19:08:41.575Z","v":0}
