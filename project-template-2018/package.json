@@ -23,7 +23,7 @@
   "homepage": "https://bitbucket.org/ttschool/project-template#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "bunyan": "^1.8.12",
     "json-loader": "^0.5.7",
